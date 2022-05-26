@@ -1,1 +1,2 @@
-prints the effective username of the current user
+#!/bin/bash 
+prints the effective username of the current user.
